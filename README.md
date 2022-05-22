@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there Wonderful Being 👋
 ~🔭 I'm currently building projects
+
 ~🌱 Learning everything I can
+
 ~👯 Looking for Remote Job
+
 ~💬 Ask me about - Node, React, Express, Javascript
+
 ~🥅 2022 GOALS: Contribute to Opensource, Build Projects
+
 ~📫 I'm looking for help with Remote Job
 <!--
 **khataksachin00/khataksachin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
