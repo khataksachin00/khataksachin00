@@ -5,7 +5,7 @@
 
 ~👯 Looking for Remote Job
 
-~💬 Ask me about - Node, React, Express, Javascript
+~💬 Ask me about - **Node, React, Express, Javascript**
 
 ~🥅 2022 GOALS: Contribute to Opensource, Build Projects
 
