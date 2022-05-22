@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+🔭 I’m currently building products✨
+🌱 Learning everything i can
+👯 Looking for Remote Job
+💬 Ask me about - Node, React and Javascript
+🥅 2022 GOALS : Contribute to Opensource, Build projects
 <!--
 **khataksachin00/khataksachin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
