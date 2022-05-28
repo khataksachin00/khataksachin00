@@ -1,15 +1,21 @@
-### Hi there Wonderful Being 👋
-~🔭 I'm currently building projects
+<div align="center">
+  <h1>🙏Namaste, I'm Sachin Khatak 🙇</h1>
+  <h3>Full Stack Web Developer | Web 2.0 & 3.0 </h3> 
+</div>
+</br>
 
-~🌱 Learning everything I can
+~🔭 I'm currently building projects with MERN Stack.
 
-~👯 Looking for Remote Job
+~🌱 Learning more about the Smart Contracts.
 
-~💬 Ask me about - **Node, React, Express, Javascript**
+~👯 Looking for Awesome Community where I can contribute.
 
-~🥅 2022 GOALS: Contribute to Opensource, Build Projects
+~💬 Ask me about - **Node, React, Express, Javascript**.
 
-~📫 I'm looking for help with Remote Job
+~🥅 2022 GOALS: Contribute to Opensource, Build Projects and solving more LEETCODE problems.
+
+<h3> Connect with me </h3>
+
 <!--
 **khataksachin00/khataksachin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
