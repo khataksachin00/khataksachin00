@@ -42,6 +42,8 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=khataksachin00&count_private=true&show_icons=true&include_all_commits=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khataksachin00)](https://git.io/streak-stats)
+
 <!--
 **khataksachin00/khataksachin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
