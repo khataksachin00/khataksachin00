@@ -4,7 +4,7 @@
 </br>
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Full+Stack+Web+2.0+developer;Currently+Learning+Web+3.0">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Full+Stack+Web+developer;Currently+Learning+Web+Blockchain+Technology">
   </a>
   </p>
   
